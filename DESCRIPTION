@@ -1,6 +1,6 @@
 Package: GOexpress
 Title: Visualise microarray and RNAseq data using gene ontology annotations
-Version: 1.16.0
+Version: 1.16.1
 Date: 2017-04-04
 Authors@R: c(
     person(given="Kevin", family="Rue-Albrecht",
@@ -33,7 +33,7 @@ Imports: biomaRt (>= 2.18.0), stringr (>= 0.6.2),
     randomForest (>= 4.6), RCurl (>= 1.95)
 Suggests: BiocStyle
 License: GPL (>= 3)
-biocViews: Software, GeneExpression, Transcription, DifferentialExpression,
+biocViews: ImmunoOncology, Software, GeneExpression, Transcription, DifferentialExpression,
     GeneSetEnrichment, DataRepresentation, Clustering,
     TimeCourse, Microarray, Sequencing, RNASeq, Annotation,
     MultipleComparison, Pathways, GO, Visualization
